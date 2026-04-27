@@ -1,0 +1,14 @@
+c:\Users\signe.olofsson\Documents\programmerin 2\restingBface\Restingbface\bin\Debug\net9.0\Restingbface.exe
+c:\Users\signe.olofsson\Documents\programmerin 2\restingBface\Restingbface\bin\Debug\net9.0\Restingbface.deps.json
+c:\Users\signe.olofsson\Documents\programmerin 2\restingBface\Restingbface\bin\Debug\net9.0\Restingbface.runtimeconfig.json
+c:\Users\signe.olofsson\Documents\programmerin 2\restingBface\Restingbface\bin\Debug\net9.0\Restingbface.dll
+c:\Users\signe.olofsson\Documents\programmerin 2\restingBface\Restingbface\bin\Debug\net9.0\Restingbface.pdb
+c:\Users\signe.olofsson\Documents\programmerin 2\restingBface\Restingbface\obj\Debug\net9.0\Restingbface.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\signe.olofsson\Documents\programmerin 2\restingBface\Restingbface\obj\Debug\net9.0\Restingbface.AssemblyInfoInputs.cache
+c:\Users\signe.olofsson\Documents\programmerin 2\restingBface\Restingbface\obj\Debug\net9.0\Restingbface.AssemblyInfo.cs
+c:\Users\signe.olofsson\Documents\programmerin 2\restingBface\Restingbface\obj\Debug\net9.0\Restingbface.csproj.CoreCompileInputs.cache
+c:\Users\signe.olofsson\Documents\programmerin 2\restingBface\Restingbface\obj\Debug\net9.0\Restingbface.dll
+c:\Users\signe.olofsson\Documents\programmerin 2\restingBface\Restingbface\obj\Debug\net9.0\refint\Restingbface.dll
+c:\Users\signe.olofsson\Documents\programmerin 2\restingBface\Restingbface\obj\Debug\net9.0\Restingbface.pdb
+c:\Users\signe.olofsson\Documents\programmerin 2\restingBface\Restingbface\obj\Debug\net9.0\Restingbface.genruntimeconfig.cache
+c:\Users\signe.olofsson\Documents\programmerin 2\restingBface\Restingbface\obj\Debug\net9.0\ref\Restingbface.dll
